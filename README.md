@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# Fake News Detection
 
 
 ## Introduction
@@ -7,7 +7,7 @@ The whole project has been decided to be programmed in python. The reason for se
 
 ## Guide to use
   - Download the files
-  - Open Data preparation and make word2vec of your data and save .npz files and other necessary files for training.
+  - Open word2vec file and prepare data and save .npz files and other necessary files for training.
   - Open Config.py and adjust it according to your setup and adjust related file paths in it.
   - To modify training loss and optimizer open train.py and edit it.
   - To start training run train.py
@@ -52,12 +52,12 @@ Following configurations were used for final model training.
       - Learning rate 0.005
 
 ## Results
-<p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table1.png"> </p>
-<p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table2.png"> </p>
-<p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table3.png"> </p>
+<p align="center"> <img width=700 height= 350 src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table1.png"> </p>
+<p align="center"> <img width=700 height= 350 src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table2.png"> </p>
+<p align="center"> <img width=700 height= 350 src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table3.png"> </p>
 
 ## Analysis
-<p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/acc.png"> </p>
+<p align="center"> <img width=700 height= 350 src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/acc.png"> </p>
 </br>
 
 ## Reference
