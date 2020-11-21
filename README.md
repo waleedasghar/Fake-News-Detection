@@ -57,9 +57,8 @@ Following configurations were used for final model training.
 <p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/table3.png"> </p>
 
 ## Analysis
-<p align="center" height=300 width=300> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/acc.png"> </p>
+<p align="center"> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/acc.png"> </p>
 </br>
-<p align="center" height=300 width=300> <img src="https://github.com/waleedasghar/Fake-News-Detection/blob/main/images/lstm.png"> </p>
 
 ## Reference
 
