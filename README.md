@@ -2,7 +2,7 @@
 
 
 ## Introduction
-We will code ML techniques in ython on our fake news dataset in order to elect best algorithm o be used in detecting fake news. A very important question rises will the machine learning techniques will give accuracy ad validation results to that of by any human? Hence, for the uestion to be answered we will be using three different echniques. Obviously 100% accuracy can’t be achieved till now by any algorithm but the model with the highest accuracy approximately in 90s will be close enough to be equivalent to the results attained by humans.
+We will code ML techniques in python on our fake news dataset in order to elect best algorithm o be used in detecting fake news. A very important question rises will the machine learning techniques will give accuracy ad validation results to that of by any human? Hence, for the uestion to be answered we will be using three different echniques. Obviously 100% accuracy can’t be achieved till now by any algorithm but the model with the highest accuracy approximately in 90s will be close enough to be equivalent to the results attained by humans.
 The whole project has been decided to be programmed in python. The reason for selecting python is due to its simplicity and understandability no matter how complex the code is. In addition, it offers a lot of libraries and modules to support the whole machine learning process.
 
 ## Guide to use
